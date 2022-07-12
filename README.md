@@ -1,5 +1,5 @@
 # Throne of Glass Character Guide
-Simple React app to practice components and props
+Simple React app to practice components and props that creates a basic character guide for Sarah J. Maas's *Throne of Glass* book series. 
 - [View](https://470bc8.csb.app/) on CodeSandbox
 - Front-end: React (components and styling practice)
 
